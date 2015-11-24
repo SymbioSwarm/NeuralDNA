@@ -1,3 +1,17 @@
+# A user needs to call three functions to download all of the data needed.
+# (First get the table data by manually running the javascript in the console)
+# First run get_and_write_url() to find the next url (I made a mistake here so this is why we have the next function call)
+# Since I accidentily found the wrong url, you need to pull the information 
+# from the url and create a new url that points to the genome sequence page.
+# That function call is change_urls().
+# Once you have all of the urls you need you can save the sequence files using
+# get_genomes().
+
+# Notes on the parameters of the function and how to run this:
+# The "level" numbers correspond to the colors in the Plants-Species-Origins file
+# level 0 = Green, level 1 = White, level 2 = Yellow, level 3 = Red, level 4 = Purple,
+# level 5 = in the database but not in the list, level 6 = yellow with no region label
+
 require 'open-uri';
 require 'csv';
 

@@ -101,106 +101,106 @@ ID,Name,URL,Size,GC,rRNA,tRNA,gene,Goodness_Level,Region,Next_url,Final_url
 100,Carica papaya,http://www.ncbi.nlm.nih.gov/genome/513?genome_assembly_id=206786,160.1,36.89,8,37,131,2,C. America and Mexico,,
 101,Carludovica palmata,http://www.ncbi.nlm.nih.gov/genome/37026?genome_assembly_id=229758,158.545,37.74,8,38,133,1,C. America and Mexico,http://www.ncbi.nlm.nih.gov/nuccore/768803775?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=768803775&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
 102,Carnegiea gigantea,http://www.ncbi.nlm.nih.gov/genome/39095?genome_assembly_id=241339,113.064,36.68,4,30,107,3,,,
-103,Castanea mollissima,http://www.ncbi.nlm.nih.gov/genome/10727?genome_assembly_id=39629,160.799,36.76,8,37,130,,,,
-104,Castanopsis echinocarpa,http://www.ncbi.nlm.nih.gov/genome/31364?genome_assembly_id=54449,160.647,36.73,8,40,132,,,,
-105,Catharanthus roseus,http://www.ncbi.nlm.nih.gov/genome/12882?genome_assembly_id=40833,154.95,38.09,8,37,134,,,,
-106,Cathaya argyrophylla,http://www.ncbi.nlm.nih.gov/genome/9586?genome_assembly_id=38978,107.122,38.78,4,32,110,,,,
-107,Cattleya crispata,http://www.ncbi.nlm.nih.gov/genome/36745?genome_assembly_id=228962,148.343,37.27,8,39,138,,,,
-108,Cedrus deodara,http://www.ncbi.nlm.nih.gov/genome/9585?genome_assembly_id=38977,119.299,39.14,4,35,115,,,,
-109,Centaurea diffusa,http://www.ncbi.nlm.nih.gov/genome/33424?genome_assembly_id=206285,152.559,37.73,8,36,135,,,,
-110,Cephalotaxus oliveri,http://www.ncbi.nlm.nih.gov/genome/17588?genome_assembly_id=46799,134.337,35.25,4,28,114,,,,
-111,Cephalotaxus wilsoniana,http://www.ncbi.nlm.nih.gov/genome/11826?genome_assembly_id=40257,136.196,35.08,4,27,113,,,,
-112,Ceratophyllum demersum,http://www.ncbi.nlm.nih.gov/genome/8355?genome_assembly_id=38092,156.252,38.22,8,37,131,,,,
-113,Ceratozamia hildae,http://www.ncbi.nlm.nih.gov/genome/36122?genome_assembly_id=219943,165.734,39.69,8,39,135,,,,
-114,Chikusichloa aquatica,http://www.ncbi.nlm.nih.gov/genome/38403?genome_assembly_id=232238,136.563,39.04,8,38,129,,,,
-115,Chimonocalamus longiusculus,http://www.ncbi.nlm.nih.gov/genome/33754?genome_assembly_id=206615,139.821,38.87,8,39,129,,,,
-116,Chloranthus japonicus,http://www.ncbi.nlm.nih.gov/genome/36746?genome_assembly_id=228963,158.64,38.86,8,37,131,,,,
-117,Chloranthus spicatus,http://www.ncbi.nlm.nih.gov/genome/8259?genome_assembly_id=38017,157.772,38.89,8,37,131,,,,
-118,Chrysanthemum indicum,http://www.ncbi.nlm.nih.gov/genome/16748?genome_assembly_id=46281,150.972,37.48,8,34,125,,,,
-119,Chrysanthemum x morifolium,http://www.ncbi.nlm.nih.gov/genome/14555?genome_assembly_id=44834,151.033,37.48,8,35,128,,,,
-120,Chrysobalanus icaco,http://www.ncbi.nlm.nih.gov/genome/31847?genome_assembly_id=58832,162.775,36.17,8,37,130,,,,
-121,Cicer arietinum,http://www.ncbi.nlm.nih.gov/genome/2992?genome_assembly_id=34241,125.319,33.91,4,29,108,,,,
-122,Cistanche deserticola,http://www.ncbi.nlm.nih.gov/genome/17587?genome_assembly_id=46798,102.657,36.78,8,36,106,,,,
-123,Citrus aurantiifolia,http://www.ncbi.nlm.nih.gov/genome/15039?genome_assembly_id=211980,159.893,38.44,8,37,138,,,,
-124,Citrus sinensis,http://www.ncbi.nlm.nih.gov/genome/10702?genome_assembly_id=39598,160.129,38.48,8,45,140,,,,
-125,Clematis terniflora,http://www.ncbi.nlm.nih.gov/genome/40506?genome_assembly_id=249742,159.528,38,8,36,135,,,,
-126,Cocos nucifera,http://www.ncbi.nlm.nih.gov/genome/12246?genome_assembly_id=40560,154.731,37.44,8,38,133,,,,
-127,Coffea arabica,http://www.ncbi.nlm.nih.gov/genome/77?genome_assembly_id=22790,155.189,37.43,8,45,140,,,,
-128,Coix lacryma-jobi,http://www.ncbi.nlm.nih.gov/genome/9165?genome_assembly_id=38684,140.745,38.46,8,40,157,,,,
-129,Colobanthus quitensis,http://www.ncbi.nlm.nih.gov/genome/40757?genome_assembly_id=250106,151.276,36.69,8,36,125,,,,
-130,Colocasia esculenta,http://www.ncbi.nlm.nih.gov/genome/12429?genome_assembly_id=40718,162.424,36.16,8,37,131,,,,
-131,Corymbia eximia,http://www.ncbi.nlm.nih.gov/genome/22878?genome_assembly_id=47492,160.012,36.78,8,37,135,,,,
-132,Corymbia gummifera,http://www.ncbi.nlm.nih.gov/genome/22882?genome_assembly_id=47496,160.713,36.75,8,37,135,,,,
-133,Corymbia maculata,http://www.ncbi.nlm.nih.gov/genome/22877?genome_assembly_id=47491,160.045,36.79,8,37,135,,,,
-134,Corymbia tessellaris,http://www.ncbi.nlm.nih.gov/genome/22865?genome_assembly_id=47479,160.127,36.77,8,37,135,,,,
-135,Corynocarpus laevigata,http://www.ncbi.nlm.nih.gov/genome/9636?genome_assembly_id=39007,159.202,36.56,8,36,128,,,,
-136,Couepia guianensis,http://www.ncbi.nlm.nih.gov/genome/33282?genome_assembly_id=206142,162.125,36.31,8,37,130,,,,
-137,Crucihimalaya wallichii JS5,http://www.ncbi.nlm.nih.gov/genome/8213?genome_assembly_id=37980,155.199,36.42,8,37,130,,,,
-138,Cryptomeria japonica,http://www.ncbi.nlm.nih.gov/genome/2163?genome_assembly_id=33692,131.81,35.38,4,32,118,,,,
-139,Cucumis melo,http://www.ncbi.nlm.nih.gov/genome/10697?genome_assembly_id=39592,156.017,36.92,8,37,133,,,,
-140,Cucumis sativus,http://www.ncbi.nlm.nih.gov/genome/1639?genome_assembly_id=228904,155.293,37.08,8,37,130,,,,
-141,Cunninghamia lanceolata,http://www.ncbi.nlm.nih.gov/genome/14324?genome_assembly_id=44705,135.334,35,-,35,116,,,,
-142,Cupressus gigantea,http://www.ncbi.nlm.nih.gov/genome/41048?genome_assembly_id=256266,128.244,34.71,4,33,119,,,,
-143,Cuscuta exaltata,http://www.ncbi.nlm.nih.gov/genome/8356?genome_assembly_id=38093,125.373,38.12,8,35,117,,,,
-144,Cuscuta gronovii,http://www.ncbi.nlm.nih.gov/genome/8300?genome_assembly_id=38041,86.744,37.72,8,28,98,,,,
-145,Cuscuta obtusiflora,http://www.ncbi.nlm.nih.gov/genome/8351?genome_assembly_id=38088,85.286,37.84,8,29,98,,,,
-146,Cuscuta reflexa,http://www.ncbi.nlm.nih.gov/genome/24231?genome_assembly_id=38042,121.521,38.22,8,35,113,,,,
-147,Cycas revoluta,http://www.ncbi.nlm.nih.gov/genome/16749?genome_assembly_id=46282,162.489,39.38,8,39,156,,,,
-148,Cycas taitungensis,http://www.ncbi.nlm.nih.gov/genome/10795?genome_assembly_id=39734,163.403,39.45,8,38,169,,,,
-149,Cymbidium aloifolium,http://www.ncbi.nlm.nih.gov/genome/18189?genome_assembly_id=47056,156.904,36.87,8,38,139,,,,
-150,Cymbidium faberi,http://www.ncbi.nlm.nih.gov/genome/39958?genome_assembly_id=246060,157.262,36.98,8,38,139,,,,
-151,Cymbidium mannii,http://www.ncbi.nlm.nih.gov/genome/18173?genome_assembly_id=47040,155.308,36.94,8,38,139,,,,
-152,Cymbidium sinense,http://www.ncbi.nlm.nih.gov/genome/14990?genome_assembly_id=45050,155.548,37.03,8,38,139,,,,
-153,Cymbidium tortisepalum,http://www.ncbi.nlm.nih.gov/genome/18141?genome_assembly_id=47008,155.627,37.03,8,38,139,,,,
-154,Cymbidium tracyanum,http://www.ncbi.nlm.nih.gov/genome/18142?genome_assembly_id=47009,156.286,36.8,8,38,139,,,,
-155,Cynara baetica,http://www.ncbi.nlm.nih.gov/genome/40502?genome_assembly_id=249738,152.548,37.71,8,37,136,,,,
-156,Cynara cornigera,http://www.ncbi.nlm.nih.gov/genome/40510?genome_assembly_id=249746,152.55,37.71,8,37,136,,,,
-157,Cynara humilis,http://www.ncbi.nlm.nih.gov/genome/38241?genome_assembly_id=231615,152.585,37.7,8,36,135,,,,
-158,Cypripedium formosanum,http://www.ncbi.nlm.nih.gov/genome/37030?genome_assembly_id=229762,178.131,33.89,8,39,134,,,,
-159,Cypripedium macranthos,http://www.ncbi.nlm.nih.gov/genome/33533?genome_assembly_id=206394,157.05,37.82,8,38,132,,,,
-160,Datura stramonium,http://www.ncbi.nlm.nih.gov/genome/14411?genome_assembly_id=44760,155.871,37.88,8,38,133,,,,
-161,Daucus carota,http://www.ncbi.nlm.nih.gov/genome/860?genome_assembly_id=31537,155.911,37.66,8,43,138,,,,
-162,Dendrobium catenatum,http://www.ncbi.nlm.nih.gov/genome/31795?genome_assembly_id=57062,152.221,37.47,8,38,129,,,,
-163,Dendrobium strongylanthum,http://www.ncbi.nlm.nih.gov/genome/39798?genome_assembly_id=244825,153.059,37.62,8,38,130,,,,
-164,Dendrocalamus latiflorus,http://www.ncbi.nlm.nih.gov/genome/14293?genome_assembly_id=44690,139.394,38.92,8,39,132,,,,
-165,Dendropanax dentiger,http://www.ncbi.nlm.nih.gov/genome/36744?genome_assembly_id=228961,156.687,37.96,8,37,133,,,,
-166,Dendropanax morbifer,http://www.ncbi.nlm.nih.gov/genome/39105?genome_assembly_id=241349,156.366,37.99,8,37,132,,,,
-167,Dieffenbachia seguine,http://www.ncbi.nlm.nih.gov/genome/38538?genome_assembly_id=232778,163.699,36.39,8,37,131,,,,
-168,Dioon spinulosum,http://www.ncbi.nlm.nih.gov/genome/38854?genome_assembly_id=235384,161.815,40.11,8,39,135,,,,
-169,Dioscorea elephantipes,http://www.ncbi.nlm.nih.gov/genome/8260?genome_assembly_id=38018,152.609,37.15,8,38,130,,,,
-170,Dioscorea zingiberensis,http://www.ncbi.nlm.nih.gov/genome/38245?genome_assembly_id=231619,153.97,37.22,8,38,132,,,,
-171,Diplopterygium glaucum,http://www.ncbi.nlm.nih.gov/genome/33363?genome_assembly_id=206223,151.007,40.16,8,35,128,,,,
-172,Draba nemorosa JO21,http://www.ncbi.nlm.nih.gov/genome/8214?genome_assembly_id=37981,153.289,36.47,8,37,129,,,,
-173,Drimys granadensis,http://www.ncbi.nlm.nih.gov/genome/8075?genome_assembly_id=37871,160.604,38.79,8,44,137,,,,
-174,Dunalia brachyacantha,http://www.ncbi.nlm.nih.gov/genome/37108?genome_assembly_id=229840,156.73,37.71,8,38,139,,,,
-175,Dunalia obovata,http://www.ncbi.nlm.nih.gov/genome/36742?genome_assembly_id=228959,156.559,37.69,8,36,131,,,,
-176,Dunalia solanacea,http://www.ncbi.nlm.nih.gov/genome/38243?genome_assembly_id=231617,156.869,37.65,8,37,135,,,,
-177,Echinochloa oryzicola STB03,http://www.ncbi.nlm.nih.gov/genome/33695?genome_assembly_id=206556,139.891,38.63,8,42,132,,,,
-178,Elaeagnus macrophylla,http://www.ncbi.nlm.nih.gov/genome/40756?genome_assembly_id=250105,152.224,37.1,8,38,131,,,,
-179,Elaeis guineensis,http://www.ncbi.nlm.nih.gov/genome/2669?genome_assembly_id=34040,156.973,37.4,8,38,137,,,,
-180,Eleutherococcus senticosus,http://www.ncbi.nlm.nih.gov/genome/12123?genome_assembly_id=40495,156.768,37.95,8,37,134,,,,
-181,Elleanthus sodiroi,http://www.ncbi.nlm.nih.gov/genome/38524?genome_assembly_id=232764,161.511,37.13,8,38,133,,,,
-182,Elodea canadensis,http://www.ncbi.nlm.nih.gov/genome/14995?genome_assembly_id=45052,156.7,37,8,37,130,,,,
-183,Encephalartos lehmannii,http://www.ncbi.nlm.nih.gov/genome/38844?genome_assembly_id=235374,165.822,39.9,8,39,135,,,,
-184,Ephedra equisetina,http://www.ncbi.nlm.nih.gov/genome/8857?genome_assembly_id=38444,109.518,36.64,8,37,120,,,,
-185,Epifagus virginiana,http://www.ncbi.nlm.nih.gov/genome/7369?genome_assembly_id=37478,70.028,36,8,23,71,,,,
-186,Epipremnum aureum,http://www.ncbi.nlm.nih.gov/genome/40456?genome_assembly_id=249631,164.831,35.78,8,37,131,,,,
-187,Equisetum arvense,http://www.ncbi.nlm.nih.gov/genome/10756?genome_assembly_id=39667,133.309,33.36,8,38,132,,,,
-188,Equisetum hyemale,http://www.ncbi.nlm.nih.gov/genome/11599?genome_assembly_id=40136,131.76,33.74,8,38,132,,,,
-189,Erodium absinthoides,http://www.ncbi.nlm.nih.gov/genome/37110?genome_assembly_id=229842,162.618,43.29,10,41,144,,,,
-190,Erodium carvifolium,http://www.ncbi.nlm.nih.gov/genome/9700?genome_assembly_id=39059,116.935,38.96,4,32,113,,,,
-191,Erodium chrysanthum,http://www.ncbi.nlm.nih.gov/genome/14930?genome_assembly_id=231455,168.946,43.2,8,44,153,,,,
-192,Erycina pusilla,http://www.ncbi.nlm.nih.gov/genome/14435?genome_assembly_id=206937,143.164,36.65,8,37,125,,,,
-193,Eucalyptus aromaphloia,http://www.ncbi.nlm.nih.gov/genome/22856?genome_assembly_id=47470,160.149,36.86,8,37,135,,,,
-194,Eucalyptus baxteri,http://www.ncbi.nlm.nih.gov/genome/22874?genome_assembly_id=47488,160.032,36.82,8,37,135,,,,
-195,Eucalyptus camaldulensis,http://www.ncbi.nlm.nih.gov/genome/12405?genome_assembly_id=206908,160.164,36.87,8,37,135,,,,
-196,Eucalyptus cladocalyx,http://www.ncbi.nlm.nih.gov/genome/22860?genome_assembly_id=47474,160.213,36.86,8,37,135,,,,
-197,Eucalyptus cloeziana,http://www.ncbi.nlm.nih.gov/genome/22868?genome_assembly_id=47482,160.015,36.83,8,37,135,,,,
-198,Eucalyptus curtisii,http://www.ncbi.nlm.nih.gov/genome/22861?genome_assembly_id=47475,160.038,36.98,8,37,135,,,,
-199,Eucalyptus deglupta,http://www.ncbi.nlm.nih.gov/genome/22876?genome_assembly_id=47490,160.177,36.87,8,37,135,,,,
-200,Eucalyptus delegatensis,http://www.ncbi.nlm.nih.gov/genome/22855?genome_assembly_id=47469,159.724,36.87,8,37,135,,,,
-201,Eucalyptus diversicolor,http://www.ncbi.nlm.nih.gov/genome/22880?genome_assembly_id=47494,160.214,36.84,8,37,135,,,,
-202,Eucalyptus diversifolia,http://www.ncbi.nlm.nih.gov/genome/22857?genome_assembly_id=47471,159.954,36.83,8,37,135,,,,
+103,Castanea mollissima,http://www.ncbi.nlm.nih.gov/genome/10727?genome_assembly_id=39629,160.799,36.76,8,37,130,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/309321499?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=309321499&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+104,Castanopsis echinocarpa,http://www.ncbi.nlm.nih.gov/genome/31364?genome_assembly_id=54449,160.647,36.73,8,40,132,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/589387930?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=589387930&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+105,Catharanthus roseus,http://www.ncbi.nlm.nih.gov/genome/12882?genome_assembly_id=40833,154.95,38.09,8,37,134,0,Subsaharan Africa,http://www.ncbi.nlm.nih.gov/nuccore/474452054?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=474452054&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+106,Cathaya argyrophylla,http://www.ncbi.nlm.nih.gov/genome/9586?genome_assembly_id=38978,107.122,38.78,4,32,110,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/307683286?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=307683286&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+107,Cattleya crispata,http://www.ncbi.nlm.nih.gov/genome/36745?genome_assembly_id=228962,148.343,37.27,8,39,138,0,S. America,http://www.ncbi.nlm.nih.gov/nuccore/756762296?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=756762296&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+108,Cedrus deodara,http://www.ncbi.nlm.nih.gov/genome/9585?genome_assembly_id=38977,119.299,39.14,4,35,115,3,,,
+109,Centaurea diffusa,http://www.ncbi.nlm.nih.gov/genome/33424?genome_assembly_id=206285,152.559,37.73,8,36,135,1,Levant,http://www.ncbi.nlm.nih.gov/nuccore/645101132?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=645101132&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+110,Cephalotaxus oliveri,http://www.ncbi.nlm.nih.gov/genome/17588?genome_assembly_id=46799,134.337,35.25,4,28,114,3,,,
+111,Cephalotaxus wilsoniana,http://www.ncbi.nlm.nih.gov/genome/11826?genome_assembly_id=40257,136.196,35.08,4,27,113,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/350529152?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=350529152&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+112,Ceratophyllum demersum,http://www.ncbi.nlm.nih.gov/genome/8355?genome_assembly_id=38092,156.252,38.22,8,37,131,3,,,
+113,Ceratozamia hildae,http://www.ncbi.nlm.nih.gov/genome/36122?genome_assembly_id=219943,165.734,39.69,8,39,135,0,C. America and Mexico,http://www.ncbi.nlm.nih.gov/nuccore/403071496?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=403071496&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+114,Chikusichloa aquatica,http://www.ncbi.nlm.nih.gov/genome/38403?genome_assembly_id=232238,136.563,39.04,8,38,129,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/821607387?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=821607387&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+115,Chimonocalamus longiusculus,http://www.ncbi.nlm.nih.gov/genome/33754?genome_assembly_id=206615,139.821,38.87,8,39,129,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/407030230?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=407030230&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+116,Chloranthus japonicus,http://www.ncbi.nlm.nih.gov/genome/36746?genome_assembly_id=228963,158.64,38.86,8,37,131,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/756761852?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=756761852&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+117,Chloranthus spicatus,http://www.ncbi.nlm.nih.gov/genome/8259?genome_assembly_id=38017,157.772,38.89,8,37,131,3,,,
+118,Chrysanthemum indicum,http://www.ncbi.nlm.nih.gov/genome/16748?genome_assembly_id=46281,150.972,37.48,8,34,125,4,,,
+119,Chrysanthemum x morifolium,http://www.ncbi.nlm.nih.gov/genome/14555?genome_assembly_id=44834,151.033,37.48,8,35,128,4,,,
+120,Chrysobalanus icaco,http://www.ncbi.nlm.nih.gov/genome/31847?genome_assembly_id=58832,162.775,36.17,8,37,130,3,,,
+121,Cicer arietinum,http://www.ncbi.nlm.nih.gov/genome/2992?genome_assembly_id=34241,125.319,33.91,4,29,108,3,,,
+122,Cistanche deserticola,http://www.ncbi.nlm.nih.gov/genome/17587?genome_assembly_id=46798,102.657,36.78,8,36,106,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/429536992?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=429536992&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+123,Citrus aurantiifolia,http://www.ncbi.nlm.nih.gov/genome/15039?genome_assembly_id=211980,159.893,38.44,8,37,138,2,South/SE Asia,,
+124,Citrus sinensis,http://www.ncbi.nlm.nih.gov/genome/10702?genome_assembly_id=39598,160.129,38.48,8,45,140,3,,,
+125,Clematis terniflora,http://www.ncbi.nlm.nih.gov/genome/40506?genome_assembly_id=249742,159.528,38,8,36,135,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/687814831?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=687814831&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+126,Cocos nucifera,http://www.ncbi.nlm.nih.gov/genome/12246?genome_assembly_id=40560,154.731,37.44,8,38,133,3,,,
+127,Coffea arabica,http://www.ncbi.nlm.nih.gov/genome/77?genome_assembly_id=22790,155.189,37.43,8,45,140,1,Levant,http://www.ncbi.nlm.nih.gov/nuccore/116242143?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=116242143&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+128,Coix lacryma-jobi,http://www.ncbi.nlm.nih.gov/genome/9165?genome_assembly_id=38684,140.745,38.46,8,40,157,1,South/SE Asia,http://www.ncbi.nlm.nih.gov/nuccore/209361311?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=209361311&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+129,Colobanthus quitensis,http://www.ncbi.nlm.nih.gov/genome/40757?genome_assembly_id=250106,151.276,36.69,8,36,125,3,,,
+130,Colocasia esculenta,http://www.ncbi.nlm.nih.gov/genome/12429?genome_assembly_id=40718,162.424,36.16,8,37,131,2,South/SE Asia,,
+131,Corymbia eximia,http://www.ncbi.nlm.nih.gov/genome/22878?genome_assembly_id=47492,160.012,36.78,8,37,135,0,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442568970?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442568970&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+132,Corymbia gummifera,http://www.ncbi.nlm.nih.gov/genome/22882?genome_assembly_id=47496,160.713,36.75,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442568798?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442568798&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+133,Corymbia maculata,http://www.ncbi.nlm.nih.gov/genome/22877?genome_assembly_id=47491,160.045,36.79,8,37,135,0,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442568884?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442568884&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+134,Corymbia tessellaris,http://www.ncbi.nlm.nih.gov/genome/22865?genome_assembly_id=47479,160.127,36.77,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442569056?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442569056&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+135,Corynocarpus laevigata,http://www.ncbi.nlm.nih.gov/genome/9636?genome_assembly_id=39007,159.202,36.56,8,36,128,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/309252869?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=309252869&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+136,Couepia guianensis,http://www.ncbi.nlm.nih.gov/genome/33282?genome_assembly_id=206142,162.125,36.31,8,37,130,1,S. America,http://www.ncbi.nlm.nih.gov/nuccore/618626551?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=618626551&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+137,Crucihimalaya wallichii JS5,http://www.ncbi.nlm.nih.gov/genome/8213?genome_assembly_id=37980,155.199,36.42,8,37,130,4,,,
+138,Cryptomeria japonica,http://www.ncbi.nlm.nih.gov/genome/2163?genome_assembly_id=33692,131.81,35.38,4,32,118,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/171854887?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=171854887&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+139,Cucumis melo,http://www.ncbi.nlm.nih.gov/genome/10697?genome_assembly_id=39592,156.017,36.92,8,37,133,1,Levant,http://www.ncbi.nlm.nih.gov/nuccore/655233573?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=655233573&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+140,Cucumis sativus,http://www.ncbi.nlm.nih.gov/genome/1639?genome_assembly_id=228904,155.293,37.08,8,37,130,2,South/SE Asia,,
+141,Cunninghamia lanceolata,http://www.ncbi.nlm.nih.gov/genome/14324?genome_assembly_id=44705,135.334,35,-,35,116,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/490344912?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=490344912&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+142,Cupressus gigantea,http://www.ncbi.nlm.nih.gov/genome/41048?genome_assembly_id=256266,128.244,34.71,4,33,119,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/933499582?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=933499582&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+143,Cuscuta exaltata,http://www.ncbi.nlm.nih.gov/genome/8356?genome_assembly_id=38093,125.373,38.12,8,35,117,1,N. America,http://www.ncbi.nlm.nih.gov/nuccore/158938658?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=158938658&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+144,Cuscuta gronovii,http://www.ncbi.nlm.nih.gov/genome/8300?genome_assembly_id=38041,86.744,37.72,8,28,98,1,N. America,http://www.ncbi.nlm.nih.gov/nuccore/156555929?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=156555929&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+145,Cuscuta obtusiflora,http://www.ncbi.nlm.nih.gov/genome/8351?genome_assembly_id=38088,85.286,37.84,8,29,98,3,,,
+146,Cuscuta reflexa,http://www.ncbi.nlm.nih.gov/genome/24231?genome_assembly_id=38042,121.521,38.22,8,35,113,3,,,
+147,Cycas revoluta,http://www.ncbi.nlm.nih.gov/genome/16749?genome_assembly_id=46282,162.489,39.38,8,39,156,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/372863074?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=372863074&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+148,Cycas taitungensis,http://www.ncbi.nlm.nih.gov/genome/10795?genome_assembly_id=39734,163.403,39.45,8,38,169,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/149941485?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=149941485&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+149,Cymbidium aloifolium,http://www.ncbi.nlm.nih.gov/genome/18189?genome_assembly_id=47056,156.904,36.87,8,38,139,3,,,
+150,Cymbidium faberi,http://www.ncbi.nlm.nih.gov/genome/39958?genome_assembly_id=246060,157.262,36.98,8,38,139,3,,,
+151,Cymbidium mannii,http://www.ncbi.nlm.nih.gov/genome/18173?genome_assembly_id=47040,155.308,36.94,8,38,139,3,,,
+152,Cymbidium sinense,http://www.ncbi.nlm.nih.gov/genome/14990?genome_assembly_id=45050,155.548,37.03,8,38,139,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/482662084?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=482662084&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+153,Cymbidium tortisepalum,http://www.ncbi.nlm.nih.gov/genome/18141?genome_assembly_id=47008,155.627,37.03,8,38,139,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/482662163?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=482662163&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+154,Cymbidium tracyanum,http://www.ncbi.nlm.nih.gov/genome/18142?genome_assembly_id=47009,156.286,36.8,8,38,139,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/482662400?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=482662400&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+155,Cynara baetica,http://www.ncbi.nlm.nih.gov/genome/40502?genome_assembly_id=249738,152.548,37.71,8,37,136,3,,,
+156,Cynara cornigera,http://www.ncbi.nlm.nih.gov/genome/40510?genome_assembly_id=249746,152.55,37.71,8,37,136,2,Levant,,
+157,Cynara humilis,http://www.ncbi.nlm.nih.gov/genome/38241?genome_assembly_id=231615,152.585,37.7,8,36,135,2,Levant,,
+158,Cypripedium formosanum,http://www.ncbi.nlm.nih.gov/genome/37030?genome_assembly_id=229762,178.131,33.89,8,39,134,0,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/632812696?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=632812696&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+159,Cypripedium macranthos,http://www.ncbi.nlm.nih.gov/genome/33533?genome_assembly_id=206394,157.05,37.82,8,38,132,3,,,
+160,Datura stramonium,http://www.ncbi.nlm.nih.gov/genome/14411?genome_assembly_id=44760,155.871,37.88,8,38,133,2,N. America,,
+161,Daucus carota,http://www.ncbi.nlm.nih.gov/genome/860?genome_assembly_id=31537,155.911,37.66,8,43,138,3,,,
+162,Dendrobium catenatum,http://www.ncbi.nlm.nih.gov/genome/31795?genome_assembly_id=57062,152.221,37.47,8,38,129,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/507474303?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=507474303&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+163,Dendrobium strongylanthum,http://www.ncbi.nlm.nih.gov/genome/39798?genome_assembly_id=244825,153.059,37.62,8,38,130,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/906346788?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=906346788&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+164,Dendrocalamus latiflorus,http://www.ncbi.nlm.nih.gov/genome/14293?genome_assembly_id=44690,139.394,38.92,8,39,132,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/255099160?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=255099160&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+165,Dendropanax dentiger,http://www.ncbi.nlm.nih.gov/genome/36744?genome_assembly_id=228961,156.687,37.96,8,37,133,3,,,
+166,Dendropanax morbifer,http://www.ncbi.nlm.nih.gov/genome/39105?genome_assembly_id=241349,156.366,37.99,8,37,132,4,,,
+167,Dieffenbachia seguine,http://www.ncbi.nlm.nih.gov/genome/38538?genome_assembly_id=232778,163.699,36.39,8,37,131,2,C. America and Mexico,,
+168,Dioon spinulosum,http://www.ncbi.nlm.nih.gov/genome/38854?genome_assembly_id=235384,161.815,40.11,8,39,135,1,C. America and Mexico,http://www.ncbi.nlm.nih.gov/nuccore/860539738?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=860539738&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+169,Dioscorea elephantipes,http://www.ncbi.nlm.nih.gov/genome/8260?genome_assembly_id=38018,152.609,37.15,8,38,130,1,Subsaharan Africa,http://www.ncbi.nlm.nih.gov/nuccore/148668026?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=148668026&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+170,Dioscorea zingiberensis,http://www.ncbi.nlm.nih.gov/genome/38245?genome_assembly_id=231619,153.97,37.22,8,38,132,2,East Asia,,
+171,Diplopterygium glaucum,http://www.ncbi.nlm.nih.gov/genome/33363?genome_assembly_id=206223,151.007,40.16,8,35,128,4,,,
+172,Draba nemorosa JO21,http://www.ncbi.nlm.nih.gov/genome/8214?genome_assembly_id=37981,153.289,36.47,8,37,129,1,N. America,http://www.ncbi.nlm.nih.gov/nuccore/134286732?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=134286732&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+173,Drimys granadensis,http://www.ncbi.nlm.nih.gov/genome/8075?genome_assembly_id=37871,160.604,38.79,8,44,137,2,C. America and Mexico,,
+174,Dunalia brachyacantha,http://www.ncbi.nlm.nih.gov/genome/37108?genome_assembly_id=229840,156.73,37.71,8,38,139,4,,,
+175,Dunalia obovata,http://www.ncbi.nlm.nih.gov/genome/36742?genome_assembly_id=228959,156.559,37.69,8,36,131,1,S. America,http://www.ncbi.nlm.nih.gov/nuccore/756419249?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=756419249&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+176,Dunalia solanacea,http://www.ncbi.nlm.nih.gov/genome/38243?genome_assembly_id=231617,156.869,37.65,8,37,135,4,,,
+177,Echinochloa oryzicola STB03,http://www.ncbi.nlm.nih.gov/genome/33695?genome_assembly_id=206556,139.891,38.63,8,42,132,3,,,
+178,Elaeagnus macrophylla,http://www.ncbi.nlm.nih.gov/genome/40756?genome_assembly_id=250105,152.224,37.1,8,38,131,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/814936624?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=814936624&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+179,Elaeis guineensis,http://www.ncbi.nlm.nih.gov/genome/2669?genome_assembly_id=34040,156.973,37.4,8,38,137,1,Subsaharan Africa,http://www.ncbi.nlm.nih.gov/nuccore/741241583?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=741241583&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+180,Eleutherococcus senticosus,http://www.ncbi.nlm.nih.gov/genome/12123?genome_assembly_id=40495,156.768,37.95,8,37,134,1,East Asia,http://www.ncbi.nlm.nih.gov/nuccore/347448185?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=347448185&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+181,Elleanthus sodiroi,http://www.ncbi.nlm.nih.gov/genome/38524?genome_assembly_id=232764,161.511,37.13,8,38,133,1,S. America,http://www.ncbi.nlm.nih.gov/nuccore/827346154?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=827346154&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+182,Elodea canadensis,http://www.ncbi.nlm.nih.gov/genome/14995?genome_assembly_id=45052,156.7,37,8,37,130,1,N. America,http://www.ncbi.nlm.nih.gov/nuccore/374094575?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=374094575&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+183,Encephalartos lehmannii,http://www.ncbi.nlm.nih.gov/genome/38844?genome_assembly_id=235374,165.822,39.9,8,39,135,1,Subsaharan Africa,http://www.ncbi.nlm.nih.gov/nuccore/860539959?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=860539959&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+184,Ephedra equisetina,http://www.ncbi.nlm.nih.gov/genome/8857?genome_assembly_id=38444,109.518,36.64,8,37,120,3,,,
+185,Epifagus virginiana,http://www.ncbi.nlm.nih.gov/genome/7369?genome_assembly_id=37478,70.028,36,8,23,71,1,N. America,http://www.ncbi.nlm.nih.gov/nuccore/336917?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=336917&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+186,Epipremnum aureum,http://www.ncbi.nlm.nih.gov/genome/40456?genome_assembly_id=249631,164.831,35.78,8,37,131,3,,,
+187,Equisetum arvense,http://www.ncbi.nlm.nih.gov/genome/10756?genome_assembly_id=39667,133.309,33.36,8,38,132,3,,,
+188,Equisetum hyemale,http://www.ncbi.nlm.nih.gov/genome/11599?genome_assembly_id=40136,131.76,33.74,8,38,132,3,,,
+189,Erodium absinthoides,http://www.ncbi.nlm.nih.gov/genome/37110?genome_assembly_id=229842,162.618,43.29,10,41,144,1,Levant,http://www.ncbi.nlm.nih.gov/nuccore/640774537?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=640774537&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+190,Erodium carvifolium,http://www.ncbi.nlm.nih.gov/genome/9700?genome_assembly_id=39059,116.935,38.96,4,32,113,1,Western Europe,http://www.ncbi.nlm.nih.gov/nuccore/316926273?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=316926273&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+191,Erodium chrysanthum,http://www.ncbi.nlm.nih.gov/genome/14930?genome_assembly_id=231455,168.946,43.2,8,44,153,3,Levant,,
+192,Erycina pusilla,http://www.ncbi.nlm.nih.gov/genome/14435?genome_assembly_id=206937,143.164,36.65,8,37,125,2,C. America and Mexico,,
+193,Eucalyptus aromaphloia,http://www.ncbi.nlm.nih.gov/genome/22856?genome_assembly_id=47470,160.149,36.86,8,37,135,0,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442567852?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442567852&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+194,Eucalyptus baxteri,http://www.ncbi.nlm.nih.gov/genome/22874?genome_assembly_id=47488,160.032,36.82,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442566476?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442566476&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+195,Eucalyptus camaldulensis,http://www.ncbi.nlm.nih.gov/genome/12405?genome_assembly_id=206908,160.164,36.87,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442568024?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442568024&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+196,Eucalyptus cladocalyx,http://www.ncbi.nlm.nih.gov/genome/22860?genome_assembly_id=47474,160.213,36.86,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442567594?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442567594&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+197,Eucalyptus cloeziana,http://www.ncbi.nlm.nih.gov/genome/22868?genome_assembly_id=47482,160.015,36.83,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442566992?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442566992&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+198,Eucalyptus curtisii,http://www.ncbi.nlm.nih.gov/genome/22861?genome_assembly_id=47475,160.038,36.98,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442567250?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442567250&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+199,Eucalyptus deglupta,http://www.ncbi.nlm.nih.gov/genome/22876?genome_assembly_id=47490,160.177,36.87,8,37,135,3,,,
+200,Eucalyptus delegatensis,http://www.ncbi.nlm.nih.gov/genome/22855?genome_assembly_id=47469,159.724,36.87,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442566304?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442566304&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+201,Eucalyptus diversicolor,http://www.ncbi.nlm.nih.gov/genome/22880?genome_assembly_id=47494,160.214,36.84,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442568368?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442568368&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
+202,Eucalyptus diversifolia,http://www.ncbi.nlm.nih.gov/genome/22857?genome_assembly_id=47471,159.954,36.83,8,37,135,1,Australia,http://www.ncbi.nlm.nih.gov/nuccore/442566562?report=fasta,http://www.ncbi.nlm.nih.gov/sviewer/viewer.fcgi?val=442566562&db=nuccore&dopt=fasta&extrafeat=0&fmt_mask=0&maxplex=1&sendto=t&withmarkup=on&log$=seqview&maxdownloadsize=1000000
 203,Eucalyptus elata,http://www.ncbi.nlm.nih.gov/genome/22853?genome_assembly_id=47467,159.899,36.85,8,37,135,,,,
 204,Eucalyptus erythrocorys,http://www.ncbi.nlm.nih.gov/genome/22883?genome_assembly_id=47497,159.742,36.87,8,37,135,,,,
 205,Eucalyptus globulus subsp. globulus,http://www.ncbi.nlm.nih.gov/genome/213?genome_assembly_id=28560,160.286,36.86,8,37,135,,,,
