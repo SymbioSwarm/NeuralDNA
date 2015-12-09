@@ -1,8 +1,12 @@
-//Set the selects to "Plants", "Land Plants", and "Cloroplast"
+// This is a simplistic web scraper designed specifically for the page
+// http://www.ncbi.nlm.nih.gov/genome/browse/?report=5
+// Please follow the steps exactly to download the .csv with all
+// data included
 
+//Set the selects to "Plants", "Land Plants", and "Cloroplast"
 var total_arr = []
 
-//Run the following for each page of results
+//Run the following for each page of results (You have to run it multiple times)
 $('#project_list_organelles tbody tr').each(function(i,row){
 	var $row=$(row);
 	var arr = [];
@@ -31,3 +35,4 @@ var exportToCsv = function(total_arr) {
 	window.open('data:text/csv;charset=utf-8,' + escape(str));
 	return str;
 }
+exportToCsv(total_arr);

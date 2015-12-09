@@ -7,6 +7,10 @@
 # Once you have all of the urls you need you can save the sequence files using
 # get_genomes().
 
+# NOTE!!!! Please be careful how many things you download at once. The server
+# might kick you off if you download too many things at once. I ran level 1 at
+# 20 genomes at a time. Since level 0 has so few you can run that all at once
+
 # Notes on the parameters of the function and how to run this:
 # The "level" numbers correspond to the colors in the Plants-Species-Origins file
 # level 0 = Green, level 1 = White, level 2 = Yellow, level 3 = Red, level 4 = Purple,
@@ -15,6 +19,9 @@
 require 'open-uri';
 require 'csv';
 
+# The website has a two step path traversal. The first link
+# is stored in the .csv. The second link is on that page and
+# needs to be found. This function finds that link
 def get_next_link(url)
 	file = open(url);
 	contents = file.read;
@@ -27,6 +34,8 @@ def get_next_link(url)
 	return nurl;
 end
 
+# This reads the genome in fasta format by following the link
+# and saves the genome in its own file in the relavant level
 def save_file(url,id,level="0")
 	file = open(url)
 	contents = file.read;
@@ -36,6 +45,8 @@ def save_file(url,id,level="0")
 	file.close();
 end
 
+# Downloads all genomes that have the genome link in the .csv file
+# Do this by each level. Be careful not to do too many at a time
 def get_genomes(from=1,to=627,level="0",filename="scraped.csv")
 	arr = CSV.read(filename)
 	print "searching"
@@ -57,6 +68,9 @@ def get_genomes(from=1,to=627,level="0",filename="scraped.csv")
 	print "\n finished"
 end
 
+# Uses get_next_link function to get the next links for the genomes.
+# Specify which level you would like to get. Be careful not to get too
+# many at once otherwise the server will kick you off
 def get_all_next_urls_from_csv(from=1,to=627,level="0",filename = "scraped.csv")
 	arr = CSV.read(filename)
 	print "searching"
@@ -81,6 +95,9 @@ def get_all_next_urls_from_csv(from=1,to=627,level="0",filename = "scraped.csv")
 end
 
 # Oops...actually needed a different url. Lets change current url to new one
+# Accidentally got the wrong url in get_next_link. However, it did have
+# all of the information needed. Use this information to create the correct link/
+# Always run this after running get_all_next_urls_from_csv.
 def change_urls(filename="scraped.csv",nfilename="new_scraped.csv")
 	arr = CSV.read(filename)
 	(0...arr.size).each do |i|
@@ -95,12 +112,15 @@ def change_urls(filename="scraped.csv",nfilename="new_scraped.csv")
 	write_to_csv(arr,nfilename)
 end
 
+# Write the data to a new .csv file
 def write_to_csv(data,filename = "new_scraped.csv")
 	CSV.open(filename, "wb") do |csv|
 	  	data.each {|x| csv << x}
 	end
 end
 
+# Use get_all_next_urls_from_csv to get all of the next urls and save them
+# in a new .csv
 def get_and_write_next_url(from = 1, to=627,level="0",filename = "scraped.csv", nfilename = "new_scraped.csv")
 	arr = get_all_next_urls_from_csv(from,to,level,filename)
 	write_to_csv(arr,nfilename)
