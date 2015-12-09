@@ -1,3 +1,7 @@
+# Cluster class holds all information about a cluster.
+# Specifically it holds the id (num) of the clutser, the 
+# height of the cluster (used in upgma), and the points
+# that the cluster holds
 class Cluster
 	attr_accessor :num
 	attr_accessor :indeces
@@ -22,6 +26,8 @@ class Cluster
 	end
 end
 
+# Holds information about a graph:
+# The nodes in the graph and the edges in the graph
 class Graph
 	attr_accessor :nodes
 	attr_accessor :edges
@@ -61,7 +67,7 @@ class Graph
 	end
 end
 
-#This is used for rosalind homework only
+#This is used for rosalind homework only!!
 def read_file(filename="upgma.in")
 	count = 0
 	d = []
@@ -79,6 +85,8 @@ def read_file(filename="upgma.in")
 	return n,d
 end
 
+# Crate a new distance matrix given the current clutsers
+# Also return the labels of the distance matrix
 def get_d_and_l(d,clusters,ls)
 	labels = []
 	d_new = []
@@ -92,6 +100,7 @@ def get_d_and_l(d,clusters,ls)
 	return d_new,labels
 end
 
+# Find the smallest value (and its location) in the distance matrix
 def find_smallest(d)
 	min = d[1][0]
 	min_row = 1
@@ -108,6 +117,7 @@ def find_smallest(d)
 	return min,min_row,min_col
 end
 
+#Runs the upgma algoritm on the distance matrix
 def do_upgma(ls,d,n,max)
 	order = []
 	clusters = []
@@ -136,6 +146,7 @@ def do_upgma(ls,d,n,max)
 	return graph,order
 end
 
+# returns the arr in string form
 def print_arr(arr)
 	arr = arr.map{|x|x+1}
 	arr = arr.map(&:to_s)
@@ -144,7 +155,7 @@ end
 
 
 
-# This used for rosalind homework only
+# This used for rosalind homework only!!!
 def do_all(filename="upgma.in")
 	n,d = read_file(filename)
 	g,order = do_things(d,n)
@@ -155,6 +166,8 @@ def do_all(filename="upgma.in")
 	puts order
 end
 
+# Reads the given distance matrix in the given folder and outputs the clutsers
+# in the order they appear
 def read_distance_and_do_upgma(type="Num_Mums", folder="level_0")
 	count = 0
 	labels = []
