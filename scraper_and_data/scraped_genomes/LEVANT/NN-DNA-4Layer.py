@@ -58,8 +58,8 @@ def sample_nth(sequence, n):
 tar = tarfile.open("LEVANT_.tar")
 sequence = ""
 NUM_TRAINING_EXAMPLES = 19
-INTERVAL_SIZE=400;
-CAPPED_SIZE = 300;
+INTERVAL_SIZE=800;
+CAPPED_SIZE = 150;
 sample_list = ""
 tar_list = tar.getnames()
 counter = 0
@@ -75,7 +75,7 @@ for n_file in tar.getmembers():
 		sequence += line.rstrip('\n')
 	print "length: ", len(sequence)
 	print "gc content: ", calculate_gc_content(sequence)
-	if tar_list[counter][4:] == "NEG":
+	if tar_list[counter][4:] == "NEG" or tar_list[counter][3:] == "NEG" or tar_list[counter][2:] == "NEG":
 		true_output.append([0])
 	else:
 		true_output.append([1])
