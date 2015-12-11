@@ -1,0 +1,234 @@
+Ground truth region:  Testing_1_S_America.txt
+3.46102729554 percent chance of belonging to S-America
+0.195310893336 percent chance of belonging to C-America
+67.0654895531 percent chance of belonging to E-Asia
+98.5715828813 percent chance of belonging to Sub-Africa
+65.6419523236 percent chance of belonging to Levant
+95.7212072736 percent chance of belonging to SSE-Asia
+36.0602770315 percent chance of belonging to N-America
+0.549380940279 percent chance of belonging to W-Europe
+99.8739067523 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_2_N_America.txt
+0.312622508869 percent chance of belonging to S-America
+0.13447278375 percent chance of belonging to C-America
+97.9970739236 percent chance of belonging to E-Asia
+95.0079848594 percent chance of belonging to Sub-Africa
+28.9330214858 percent chance of belonging to Levant
+28.4744106987 percent chance of belonging to SSE-Asia
+24.437921518 percent chance of belonging to N-America
+2.62763814723 percent chance of belonging to W-Europe
+25.3358255654 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_3_N_America.txt
+0.168627022906 percent chance of belonging to S-America
+0.260004136853 percent chance of belonging to C-America
+99.9873010096 percent chance of belonging to E-Asia
+13.7553849538 percent chance of belonging to Sub-Africa
+76.1384222494 percent chance of belonging to Levant
+76.8775408446 percent chance of belonging to SSE-Asia
+19.8627696516 percent chance of belonging to N-America
+0.494177617208 percent chance of belonging to W-Europe
+10.7726810559 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_4_Australia.txt
+27.9473774586 percent chance of belonging to S-America
+15.4893740174 percent chance of belonging to C-America
+5.36646313427 percent chance of belonging to E-Asia
+99.474307461 percent chance of belonging to Sub-Africa
+4.34162805352 percent chance of belonging to Levant
+0.357771787732 percent chance of belonging to SSE-Asia
+24.0431226667 percent chance of belonging to N-America
+1.67266339126 percent chance of belonging to W-Europe
+0.893779018374 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_5_SSAfrica.txt
+1.40191556908 percent chance of belonging to S-America
+1.19496645156 percent chance of belonging to C-America
+16.4492261728 percent chance of belonging to E-Asia
+92.7989445606 percent chance of belonging to Sub-Africa
+99.6773330605 percent chance of belonging to Levant
+4.24799890658 percent chance of belonging to SSE-Asia
+77.0867189116 percent chance of belonging to N-America
+1.10444674506 percent chance of belonging to W-Europe
+95.2763720956 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_6_EAsia.txt
+0.712553092677 percent chance of belonging to S-America
+6.98196787767 percent chance of belonging to C-America
+57.3970685983 percent chance of belonging to E-Asia
+98.6316621314 percent chance of belonging to Sub-Africa
+97.0221158506 percent chance of belonging to Levant
+2.07840894867 percent chance of belonging to SSE-Asia
+17.8880949236 percent chance of belonging to N-America
+1.27376916293 percent chance of belonging to W-Europe
+0.714968243118 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_7_Australia.txt
+17.5284058435 percent chance of belonging to S-America
+97.2468369447 percent chance of belonging to C-America
+90.7873132987 percent chance of belonging to E-Asia
+77.737525234 percent chance of belonging to Sub-Africa
+76.5294393277 percent chance of belonging to Levant
+4.95929202114 percent chance of belonging to SSE-Asia
+11.5678599049 percent chance of belonging to N-America
+0.704392130453 percent chance of belonging to W-Europe
+99.9342307973 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_8_EAsia.txt
+0.106487578182 percent chance of belonging to S-America
+0.474614780532 percent chance of belonging to C-America
+95.9828427322 percent chance of belonging to E-Asia
+0.343792169209 percent chance of belonging to Sub-Africa
+0.183204694865 percent chance of belonging to Levant
+5.50406405944 percent chance of belonging to SSE-Asia
+0.606355679474 percent chance of belonging to N-America
+0.569213007903 percent chance of belonging to W-Europe
+1.09225288862 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_9_EAsia.txt
+0.196253222102 percent chance of belonging to S-America
+24.4899612704 percent chance of belonging to C-America
+6.83505285541 percent chance of belonging to E-Asia
+57.6637371899 percent chance of belonging to Sub-Africa
+7.10332252836 percent chance of belonging to Levant
+0.394275086252 percent chance of belonging to SSE-Asia
+99.7866701932 percent chance of belonging to N-America
+16.62863628 percent chance of belonging to W-Europe
+98.4503170453 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_10_Australia.txt
+0.197944985529 percent chance of belonging to S-America
+55.4976813046 percent chance of belonging to C-America
+13.0920165355 percent chance of belonging to E-Asia
+83.1367860847 percent chance of belonging to Sub-Africa
+10.1765757698 percent chance of belonging to Levant
+0.160615000448 percent chance of belonging to SSE-Asia
+20.6803988374 percent chance of belonging to N-America
+8.56508102701 percent chance of belonging to W-Europe
+2.36820231201 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_11_EAsia_INVASIVE.txt
+0.184287419295 percent chance of belonging to S-America
+0.285835752495 percent chance of belonging to C-America
+99.9889016881 percent chance of belonging to E-Asia
+0.0956708808729 percent chance of belonging to Sub-Africa
+0.327563275933 percent chance of belonging to Levant
+2.28700492845 percent chance of belonging to SSE-Asia
+5.80497490013 percent chance of belonging to N-America
+10.3765619972 percent chance of belonging to W-Europe
+99.7717304103 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_11_Europe.txt
+7.01949067505 percent chance of belonging to S-America
+9.06970065835 percent chance of belonging to C-America
+0.523735139989 percent chance of belonging to E-Asia
+80.4113941855 percent chance of belonging to Sub-Africa
+87.4263880083 percent chance of belonging to Levant
+0.137565628133 percent chance of belonging to SSE-Asia
+97.0880114049 percent chance of belonging to N-America
+0.367451019121 percent chance of belonging to W-Europe
+69.7139689522 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_12_EAsia.txt
+0.281315428611 percent chance of belonging to S-America
+1.8056774722 percent chance of belonging to C-America
+28.1149112511 percent chance of belonging to E-Asia
+2.22642114321 percent chance of belonging to Sub-Africa
+99.5427443777 percent chance of belonging to Levant
+0.479716340177 percent chance of belonging to SSE-Asia
+97.2560848662 percent chance of belonging to N-America
+1.47537918328 percent chance of belonging to W-Europe
+99.7726996307 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_13_N_America.txt
+64.8801316823 percent chance of belonging to S-America
+0.192482890691 percent chance of belonging to C-America
+5.75362778184 percent chance of belonging to E-Asia
+0.77912526591 percent chance of belonging to Sub-Africa
+0.395928653693 percent chance of belonging to Levant
+0.358983151356 percent chance of belonging to SSE-Asia
+99.857214465 percent chance of belonging to N-America
+9.74397569395 percent chance of belonging to W-Europe
+99.0101409301 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_14_C_America.txt
+0.148184918279 percent chance of belonging to S-America
+9.45262263437 percent chance of belonging to C-America
+97.7843396817 percent chance of belonging to E-Asia
+95.922874084 percent chance of belonging to Sub-Africa
+95.5954229436 percent chance of belonging to Levant
+1.04869954039 percent chance of belonging to SSE-Asia
+99.6447832308 percent chance of belonging to N-America
+7.94552709546 percent chance of belonging to W-Europe
+99.9782780811 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_15_Australia.txt
+17.9552383929 percent chance of belonging to S-America
+0.765145456965 percent chance of belonging to C-America
+3.91001352338 percent chance of belonging to E-Asia
+5.24201995876 percent chance of belonging to Sub-Africa
+83.1487375683 percent chance of belonging to Levant
+77.6564285848 percent chance of belonging to SSE-Asia
+96.7590210045 percent chance of belonging to N-America
+0.525680689241 percent chance of belonging to W-Europe
+99.794187448 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_16_SSAfrica.txt
+40.4828939837 percent chance of belonging to S-America
+2.87316254428 percent chance of belonging to C-America
+59.0872703335 percent chance of belonging to E-Asia
+99.4595385396 percent chance of belonging to Sub-Africa
+0.677559103554 percent chance of belonging to Levant
+99.7356423125 percent chance of belonging to SSE-Asia
+84.6833188019 percent chance of belonging to N-America
+0.433497166041 percent chance of belonging to W-Europe
+99.91291037 percent chance of belonging to Australia
+
+
+
+Ground truth region:  Testing_17_C_America.txt
+0.0859924541833 percent chance of belonging to S-America
+0.6886685881 percent chance of belonging to C-America
+99.9293996269 percent chance of belonging to E-Asia
+99.711940208 percent chance of belonging to Sub-Africa
+99.8040704951 percent chance of belonging to Levant
+99.280374587 percent chance of belonging to SSE-Asia
+22.0344964789 percent chance of belonging to N-America
+2.59430886306 percent chance of belonging to W-Europe
+99.5461227326 percent chance of belonging to Australia
+
+
+
