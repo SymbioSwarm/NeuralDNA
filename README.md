@@ -35,7 +35,7 @@ To run kmeans and get a plot for the clutsers run the following via the command 
 python kmeans.py
 ```
 ### Classification
-To run the Feed Forward NN classifier on the training examples, simply untar the Region_Neural_Network.tar file, cd into it, 
+To run the Feed Forward NN classifier on the training examples, simply untar the DNA_Neural_Classifier.tar file, cd into it, 
 and run:
 
 python NN-DNA-4Layer-MULTI.py

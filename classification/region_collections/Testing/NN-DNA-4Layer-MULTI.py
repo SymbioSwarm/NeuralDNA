@@ -151,7 +151,7 @@ def train_NN(NUM_TRAINING_EXAMPLES, dictname, tarname):
 	
 
 	#learning rate: an alterable parameter that says how fast the NN moves down the gradient descent
-	learning_rate = 0.8
+	learning_rate = 0.5
 	for iterator in xrange(2000):
 		layer0 = my_array
 		
@@ -182,7 +182,7 @@ def train_NN(NUM_TRAINING_EXAMPLES, dictname, tarname):
 		weights_level2 += np.dot(prediction_layer2.T, layer3_delta) * learning_rate
 		weights_level3 += np.dot(prediction_layer3.T, layer4_delta) * learning_rate
 		
-		#time.sleep(.001)
+		time.sleep(.001)
 	
 	weights_level0_all[dictname] = weights_level0
 	weights_level1_all[dictname] = weights_level1
