@@ -35,3 +35,21 @@ To run kmeans and get a plot for the clutsers run the following via the command 
 python kmeans.py
 ```
 ### Classification
+To run the Feed Forward NN classifier on the training examples, simply untar the Region_Neural_Network.tar file, cd into it, 
+and run:
+
+python NN-DNA-4Layer-MULTI.py
+
+This will both train a neural net for each region as well as predict output for the testing input in the file. 
+The main neural net code is contained in NN-DNA-4Layer-MULTI.py and a helper function is in GC_content.py (unused).
+
+The function trainNN(NUM_TRAINING_EXAMPLES, dictname, filename) is the heart of the code, which runs the standard Feed-Forward
+Backpropagation algorithm with 2 hidden layers.
+
+The function predict(interval_size, capped_size, dictname, filename) pushes a training example through the trained network.
+
+The helper functions sample_nth() and convert_to_GC_placement() work to sample nucleotides at intervals, and convert them to 0s and 1s, as explained in the writeup. 
+
+The basic structure of the NN was taken from: http://iamtrask.github.io/2015/07/12/basic-python-network/
+
+
