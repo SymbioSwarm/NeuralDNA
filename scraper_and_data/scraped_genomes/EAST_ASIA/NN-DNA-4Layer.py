@@ -54,6 +54,7 @@ def sample_nth(sequence, n):
 		count += interval_size
 	return return_list	
 
+
 #num_files = int(raw_input('Input number of files:'))
 tar = tarfile.open("EAST_ASIA_.tar")
 sequence = ""

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # P.L.A.N.T.
 ## Plant Location Analysis of Nucleotide Traits
 ### Programs needed
@@ -53,3 +54,7 @@ The helper functions sample_nth() and convert_to_GC_placement() work to sample n
 The basic structure of the NN was taken from: http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 
+=======
+# NeuralDNA
+Neural DNA Learner
+>>>>>>> 8d53fd893c52b3001aeb75ff74740c3b9f4c25ec
