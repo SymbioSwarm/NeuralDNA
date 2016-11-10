@@ -57,4 +57,5 @@ The basic structure of the NN was taken from: http://iamtrask.github.io/2015/07/
 =======
 # NeuralDNA
 Neural DNA Learner
->>>>>>> 8d53fd893c52b3001aeb75ff74740c3b9f4c25ec
+
+This work was done for a graduate project in Comp Genomics, aiming to train a simple neural network to recognize location based on GC content. 
